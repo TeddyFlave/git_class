@@ -1,5 +1,5 @@
 Sample README file
 Foobar is a Python library
 
-## GitHub Change
+## Local git change to push to GitHub
 ## Installation
