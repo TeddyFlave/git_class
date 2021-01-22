@@ -1,9 +1,14 @@
 Sample README file
 Foobar is a Python library
 
+## Change from git_branch
 ## Local git change to push to GitHub
 ## Installation
 
-This change is meant to cause chaos!!
 
-It sure is a big prob for whoever is going to resolve!!
+
+
+
+
+Deleting some stuff
+>>>>>>> git_branch
